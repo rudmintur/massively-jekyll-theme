@@ -3,10 +3,10 @@ title: Rudmintur
 subtitle: Worldwide tour agency
 email: elenatourinfo@gmail.com
 description: Website description "trololo"
-baseurl: "/site" # the subpath of your site, e.g. /blog
+baseurl: "/site/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 paginate: 5
-
+paginate_path: "/posts/page:num/"
 
 author:
 street_address: Republicii
