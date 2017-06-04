@@ -5,6 +5,9 @@ email: elenatourinfo@gmail.com
 description: Website description "trololo"
 baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
+paginate: 5
+
+
 author:
 street_address: Republicii
 city: Cahul
