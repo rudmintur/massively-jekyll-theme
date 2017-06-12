@@ -16,9 +16,13 @@ zip_code: 3901
 country: Republic of Modlova
 phone: (716) 555-5555
 
+
+#language features
+
+
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/Rudmin-Tur-Agentie-de-Turism-1809155125993836
 github_url: https://rudmintur.github.io/site/
 gitlab_url: https://rudmintur.github.io/site/
 googleplus_url:
