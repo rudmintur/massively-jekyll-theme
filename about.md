@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: О нас
 image: assets/images/pic01.jpg
 description: Туристическое агентство Rudmin-Tur - самостоятельная туристическая компания с семейной формой бизнесса и персональной ответственностью!
 ---
