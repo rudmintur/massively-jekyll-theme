@@ -5,5 +5,5 @@ title: Авиабилеты
 
 <!-- Box -->
 
-<object data="http://blogs.claritycon.com/blog/2016/03/bower-packages-asp-net-core-1-0/" width="100%" height="100%" type="text/html">
+<object data="http://airtickets.gds.md/ru/index.php?S2_WEB_ID=RUDMIN" width="100%" height="100%" type="text/html">
 </object>
