@@ -1,8 +1,8 @@
 # site settings
 title: Rudmintur
-subtitle: Worldwide tour agency
+subtitle: Туристическое агенство по всем направлениям
 email: elenatourinfo@gmail.com
-description: Website description "trololo"
+description: Туристическое агентство Rudmin-Tur - самостоятельная туристическая компания с семейной формой бизнесса и персональной ответственностью!
 baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
