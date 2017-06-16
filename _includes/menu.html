@@ -10,7 +10,9 @@
 		    {% endfor %}
 		    {% for page in site.pages %}
 		    {% if page.layout != "home" %}
+				{% if page.title != "Elements Reference" %}
 		    <li{% if current_page == page.url %} class="active"{% endif %}><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+		    {% endif %}
 		    {% endif %}
 		    {% endfor %}
 				<li><a href="http://airtickets.gds.md/ru/index.php?S2_WEB_ID=RUDMIN" target="_blank">АВИАБИЛЕТЫ</a></li>
