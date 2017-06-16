@@ -3,7 +3,6 @@ layout: page
 title: Авиабилеты
 ---
 
-<
 <!-- Box -->
 <h2>Box</h2>
 <div class="box">
