@@ -5,6 +5,5 @@ title: Авиабилеты
 
 <!-- Box -->
 
-{% raw %}
-<link rel="import" href="http://airtickets.gds.md/ru/index.php?S2_WEB_ID=RUDMIN">
-{% endraw %}
+<object data="https://blogs.claritycon.com/blog/2016/03/bower-packages-asp-net-core-1-0/" width="100%" height="100%" type="text/html">s
+</object>
