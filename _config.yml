@@ -4,7 +4,7 @@ subtitle: туристическое агенство по всем направ
 email: elenatourinfo@gmail.com
 description: Туристическое агентство Rudmin-Tur - самостоятельная туристическая компания с семейной формой бизнесса и персональной ответственностью!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "rudmintur.md" # the base hostname & protocol for your site
 
 author:
 street_address: Republicii
