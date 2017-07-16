@@ -18,17 +18,9 @@
             {% include menu.html %}
 
 				    <!-- Featured Post -->
-				    <article class="post featured">
-						    <header class="major">
-								    <span class="date">Спец предложение</span>
-								    <h2>Турция</h2>
-								    <p>Вылет 27/06 на 8 дней 7 ночей</p>
-						    </header>
-						    <a href="#" class="image main"><img src="assets/images/pic01.jpg" alt="" /></a>
-						    <ul class="actions">
-								    <li><a href="{{ site.baseurl }}/special/" class="button big">Подробнее</a></li>
-						    </ul>
-				    </article>
+
+            {% include special.html %}
+
 
             {% if site.posts != null %}
              <header class="major">
