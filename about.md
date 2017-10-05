@@ -26,19 +26,26 @@ Rudmin-Tur с 2010 года проверяет то, что предлагает
   3. Организацию экскурсии для детей.
   4. Продажу авиабилетов.
 
-### Наша команда
-
+## Наша команда
 <div class="row">
-										<div class="3u 12u$(small) box">
-<p><span class="image fit"><img src="assets/images/team4.jpg" alt="директор Руденко Светлана" /></span>директор Руденко Светлана - образование высшее педагогическое + категория А</p>
-										</div>
-										<div class="3u 12u$(small) box">
-<p><span class="image fit"><img src="assets/images/team3.jpg" alt="менеджер Руденко Арина" /></span>менеджер Руденко Арина - образование высшее педагогическое + экономическое + категория В</p>
-										</div>
-                    <div class="3u 12u$(small) box">
-<p><span class="image fit"><img src="assets/images/team2.jpg" alt="менеджер Руденко Елена" /></span>менеджер Руденко Елена - образование высшее юридическое + категория В</p>
-                    </div>
-                    <div class="3u$ 12u$(small) box">
-<p><span class="image fit"><img src="assets/images/team.jpg" alt="администратор Руденко Юрий" /></span>администратор Руденко Юрий - образование высшее экономическое</p>
-                    </div>
-									</div>
+<div class="3u 12u$(small) box">
+<span class="image fit"><img src="assets/images/team4.jpg" alt="Руденко Светлана" /></span>
+###Руденко Светлана
+директор образование высшее педагогическое + категория А
+</div>
+<div class="3u 12u$(small) box">
+<span class="image fit"><img src="assets/images/team3.jpg" alt="Руденко Арина" /></span>
+###Руденко Арина
+менеджер образование высшееe педагогическое + экономическое + категория В
+</div>                  
+<div class="3u 12u$(small) box">
+<span class="image fit"><img src="assets/images/team2.jpg" alt="менеджер Руденко Елена" /></span>
+###Руденко Елена
+менеджер образование высшее юридическое + категория В
+</div>                    
+<div class="3u$ 12u$(small) box">
+<span class="image fit"><img src="assets/images/team.jpg" alt="Руденко Юрий" /></span>
+###Руденко Юрий
+образование высшее экономическое</p>
+</div>
+</div>
