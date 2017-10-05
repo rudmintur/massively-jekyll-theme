@@ -30,22 +30,22 @@ Rudmin-Tur с 2010 года проверяет то, что предлагает
 <div class="row">
 <div class="6u 12u$(small) box">
 <span class="image fit"><img src="assets/images/team4.jpg" alt="Руденко Светлана" /></span>
-<strong>Руденко Светлана</strong>
+<strong>Руденко Светлана</strong><br>
 директор образование высшее педагогическое + категория А
 </div>
 <div class="6u$ 12u$(small) box">
 <span class="image fit"><img src="assets/images/team3.jpg" alt="Руденко Арина" /></span>
-<strong>Руденко Арина</strong>
+<strong>Руденко Арина</strong><br>
 менеджер образование высшееe педагогическое + экономическое + категория В
 </div>                  
 <div class="6u 12u$(small) box">
 <span class="image fit"><img src="assets/images/team2.jpg" alt="менеджер Руденко Елена" /></span>
-<strong> Руденко Елена </strong>
+<strong> Руденко Елена </strong><br>
 менеджер образование высшее юридическое + категория В
 </div>                    
 <div class="6u$ 12u$(small) box">
 <span class="image fit"><img src="assets/images/team.jpg" alt="Руденко Юрий" /></span>
-<strong>Руденко Юрий</strong>
+<strong>Сибова Ирина</strong> <br>
 образование высшее экономическое
 </div>
 </div>
