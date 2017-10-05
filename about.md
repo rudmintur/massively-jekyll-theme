@@ -34,15 +34,15 @@ Rudmin-Tur с 2010 года проверяет то, что предлагает
 директор образование высшее педагогическое + категория А
 </div>
 <div class="6u$ 12u$(small) box">
-<span class="image fit"><img src="assets/images/team3.jpg" alt="Руденко Арина" /></span>
-<strong>Руденко Арина</strong><br>
-менеджер образование высшееe педагогическое + экономическое + категория В
-</div>                  
-<div class="6u 12u$(small) box">
 <span class="image fit"><img src="assets/images/team2.jpg" alt="менеджер Руденко Елена" /></span>
 <strong> Руденко Елена </strong><br>
 менеджер образование высшее юридическое + категория В
-</div>                    
+</div>                          
+<div class="6u 12u$(small) box">
+<span class="image fit"><img src="assets/images/team3.jpg" alt="Руденко Арина" /></span>
+<strong>Руденко Арина</strong><br>
+менеджер образование высшееe педагогическое + экономическое + категория В
+</div>            
 <div class="6u$ 12u$(small) box">
 <span class="image fit"><img src="assets/images/team.jpg" alt="Руденко Юрий" /></span>
 <strong>Сибова Ирина</strong> <br>
