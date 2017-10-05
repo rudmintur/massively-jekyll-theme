@@ -27,7 +27,7 @@ Rudmin-Tur с 2010 года проверяет то, что предлагает
   4. Продажу авиабилетов.
 
 ### Наша команда
-<div class="box"><p><span class="image left"><img src="assets/images/team4.jpg" alt="директор Руденко Светлана" /></span>директор Руденко Светлана - образование высшее педагогическое + категория А</p></div>
-<div class="box"><p><span class="image left"><img src="assets/images/team3.jpg" alt="менеджер Руденко Арина" /></span>менеджер Руденко Арина - образование высшее педагогическое + экономическое + категория В</p></div>
-<div class="box"><p><span class="image left"><img src="assets/images/team2.jpg" alt="менеджер Руденко Елена" /></span>менеджер Руденко Елена - образование высшее юридическое + категория В</p></div>
-<div class="box"><p><span class="image left"><img src="assets/images/team.jpg" alt="администратор Руденко Юрий" /></span>администратор Руденко Юрий - образование высшее экономическое</p></div>
+<div class="box"><p><span class="image fit"><img src="assets/images/team4.jpg" alt="директор Руденко Светлана" /></span>директор Руденко Светлана - образование высшее педагогическое + категория А</p></div>
+<div class="box"><p><span class="image fit"><img src="assets/images/team3.jpg" alt="менеджер Руденко Арина" /></span>менеджер Руденко Арина - образование высшее педагогическое + экономическое + категория В</p></div>
+<div class="box"><p><span class="image fit"><img src="assets/images/team2.jpg" alt="менеджер Руденко Елена" /></span>менеджер Руденко Елена - образование высшее юридическое + категория В</p></div>
+<div class="box"><p><span class="image fit"><img src="assets/images/team.jpg" alt="администратор Руденко Юрий" /></span>администратор Руденко Юрий - образование высшее экономическое</p></div>
