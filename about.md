@@ -33,7 +33,7 @@ Rudmin-Tur с 2010 года проверяет то, что предлагает
 <strong>Руденко Светлана</strong>
 директор образование высшее педагогическое + категория А
 </div>
-<div class="4u$ 8u$(small) box">
+<div class="4u 8u$(small) box">
 <span class="image fit"><img src="assets/images/team3.jpg" alt="Руденко Арина" /></span>
 <strong>Руденко Арина</strong>
 менеджер образование высшееe педагогическое + экономическое + категория В
