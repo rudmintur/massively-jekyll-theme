@@ -1,8 +1,7 @@
-# (WIP) Massively - Jekyll Theme
+# (WIP) RUDMINTUR - Jekyll Theme
 
-A Jekyll version of the "Massively" theme by [HTML5 UP](https://html5up.net/).
+A Jekyll version.
 
-![Massively Theme](assets/images/massively.jpg "Massively Theme")
 
 # How to Use
 
