@@ -46,6 +46,6 @@ Rudmin-Tur с 2010 года проверяет то, что предлагает
 <div class="6u$ 12u$(small) box">
 <span class="image fit"><img src="assets/images/team.jpg" alt="Руденко Юрий" /></span>
 <strong>Сибова Ирина</strong> <br>
-образование высшее экономическое
+образование международные отношения и иностранные языки
 </div>
 </div>
