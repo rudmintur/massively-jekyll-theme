@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Раннее бронирование акция
+title:  Акция Раннее бронирование
 description: Лето 2018
 image: assets/images/go explore.png
 ---
@@ -15,6 +15,6 @@ image: assets/images/go explore.png
 Дополнительная информация офис   
 :earth_asia:RUDMIN-TUR:earth_africa:    
 #### Позвони сейчас
-[029932302:phone:](tel:+37329932302){: .button .special .fit}
-[079804044:iphone:](tel:+37379804044){: .button .special .fit}
-[:iphone:079510075](tel:+079510075){: .button .special .fit}
+[029932302 :phone:](tel:+37329932302){: .button .special .fit}
+[079804044 :iphone:](tel:+37379804044){: .button .special .fit}
+[079510075 :iphone:](tel:+079510075){: .button .special .fit}
