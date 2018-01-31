@@ -17,4 +17,4 @@ image: assets/images/go explore.png
 #### Позвони сейчас
 [029932302 :phone:](tel:+37329932302){: .button .special .fit}
 [079804044 :iphone:](tel:+37379804044){: .button .special .fit}
-[079510075 :iphone:](tel:+079510075){: .button .special .fit}
+[079510075 :iphone:](tel:+37379510075){: .button .special .fit}
