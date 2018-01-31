@@ -2,9 +2,9 @@
 @import url("https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900");
 
 /*
-	
-	
-	
+
+
+
 */
 
 /* Reset */
@@ -3369,14 +3369,6 @@
 			-webkit-pointer-events: auto;
 			-ms-pointer-events: auto;
 			pointer-events: auto;
-			border-style: solid;
-			border-color: #ffffff;
-			border-width: 5px !important;
-			font-family: "Source Sans Pro", Helvetica, sans-serif;
-			font-size: 2.25rem;
-			font-weight: 900;
-			letter-spacing: 0.075em;
-			line-height: 1;
 			padding: 1rem 1.75rem;
 			text-transform: uppercase;
 			visibility: visible;
